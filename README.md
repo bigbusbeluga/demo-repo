@@ -1,2 +1,2 @@
-# demo-repo
-demo repo
+# demo repository  
+1. create repo
